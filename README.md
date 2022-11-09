@@ -43,7 +43,7 @@ This is another version of like To Do web based application. Here, a user can re
 
 ## What the app looks like
 
-![alt text](https://github.com/manishbajagai2/To-Do-App/blob/main/interface.png)
+![alt text](https://github.com/KawanChaudhary/plotterjotter/blob/main/PJ.mp4)
 
 # Getting Started with Create React App
 
